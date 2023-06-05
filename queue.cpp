@@ -73,7 +73,7 @@ int main(){
 	enQueue(3);
 	enQueue(4);
 	enQueue(5);
-	enQueue(6);         // bunu ekleyemicek aðaðaðað
+	enQueue(6);         // bunu ekleyemeyecek
 	display();
 	deQueue();
 	display();
